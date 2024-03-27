@@ -8,9 +8,15 @@ body {
     font-family: Verdana, Tahoma, sans-serif;
 }
 
-.main-container {
-    
+.main-container { 
+    margin: 20px 0 0 0;
+
+}
+  
+  
 h1 {
     text-align: center;
     color: blue;
+    margin: 50px 0 0 0;
+
 }
